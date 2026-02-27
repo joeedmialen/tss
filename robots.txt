@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://joeedmialen.github.io/tss/sitemap.xml
